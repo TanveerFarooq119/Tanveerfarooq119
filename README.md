@@ -123,6 +123,60 @@ I'm currently building projects while learning.
 - ⏳ Build Real-World Projects
 - ⏳ Build a Professional Portfolio
 - ⏳ Become a Professional Software Developer
+## 🛠️ Skills
+
+- Python
+- Git & GitHub
+- Programming Fundamentals
+- Problem Solving
+
+## 📚 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Object-Oriented Programming
+
+## 🚀 Projects
+
+### Python Calculator
+A simple calculator built with Python.
+
+### Number Guessing Game
+A beginner-friendly Python game using loops and conditions.
+
+## 🎯 Goals
+
+- Improve my Python skills
+- Build real-world projects
+- Learn Data Structures & Algorithms
+- Become a professional Software Developer
+calculator/
+├── calculator.py
+└── README.md
+Python Basics
+   ↓
+Variables & Data Types
+   ↓
+if / elif / else
+   ↓
+Loops
+   ↓
+Functions
+   ↓
+Lists / Tuples / Dictionaries / Sets
+   ↓
+File Handling
+   ↓
+Exception Handling
+   ↓
+OOP
+   ↓
+Small Projects
+   ↓
+DSA
+   ↓
+Larger Projects
 
 ---
 
